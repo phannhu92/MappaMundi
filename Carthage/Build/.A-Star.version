@@ -1,0 +1,23 @@
+{
+  "Mac" : [
+    {
+      "name" : "AStar",
+      "hash" : "d2e73cea117ff015b003943569cb76c6cc3a34387432456c17881603ca1f3183",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "3.0.0-beta-1",
+  "iOS" : [
+    {
+      "name" : "AStar",
+      "hash" : "1b7bcbf2b2b7997a873924e0f90ccc97766db866deafa23ddf11d77b36a051c1",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ]
+}

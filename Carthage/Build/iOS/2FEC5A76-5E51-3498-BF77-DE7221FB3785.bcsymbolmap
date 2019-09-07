@@ -1,0 +1,112 @@
+BCSymbolMap Version: 2.0
+_$sSa5AStarSLRzlE12binarySearch7elementSix_tF
+_$sSa5AStarSLRzlE12sortedInsert10newElementyx_tF
+__swift_FORCE_LOAD_$_swiftUIKit_$_AStar
+__swift_FORCE_LOAD_$_swiftFoundation_$_AStar
+__swift_FORCE_LOAD_$_swiftDarwin_$_AStar
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_AStar
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_AStar
+__swift_FORCE_LOAD_$_swiftDispatch_$_AStar
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_AStar
+__swift_FORCE_LOAD_$_swiftCoreImage_$_AStar
+__swift_FORCE_LOAD_$_swiftMetal_$_AStar
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_AStar
+___swift_reflection_version
+Apple LLVM version 10.0.1 (clang-1001.0.46.5)
+<swift-imported-modules>
+/Users/logan/Documents/Workspace/MappaMundi/Carthage/Checkouts/A-Star
+Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)
+/Users/logan/Documents/Workspace/MappaMundi/Carthage/Checkouts/A-Star/Sources/AStar/SortedArray.swift
+sortedInsert
+SortedArray.swift
+/Users/logan/Documents/Workspace/MappaMundi/Carthage/Checkouts/A-Star/Sources/AStar
+binarySearch
+_$s5AStar4StepC4costSfyF
+_$s5AStar4StepCfd
+_$s5AStar4StepCfD
+_$s5AStar4StepC4hash4intoys6HasherVz_tF
+_$s5AStar4StepC2eeoiySbACyxG_AEtFZ
+_$s5AStar4StepC1loiySbACyxG_AEtFZ
+_$s5AStar4StepC2leoiySbACyxG_AEtFZ
+_$s5AStar4StepC2geoiySbACyxG_AEtFZ
+_$s5AStar4StepC1goiySbACyxG_AEtFZ
+_$s5AStar4StepC9hashValueSivg
+_$s5AStar4StepCyxGSHAASH9hashValueSivgTW
+_$s5AStar4StepCyxGSHAASH4hash4intoys6HasherVz_tFTW
+_$s5AStar4StepCyqd__GSHAASH13_rawHashValue4seedS2i_tFTW
+_$s5AStar4StepCyxGSQAASQ2eeoiySbx_xtFZTW
+_$s5AStar4StepCyxGSLAASL1loiySbx_xtFZTW
+_$s5AStar4StepCyxGSLAASL2leoiySbx_xtFZTW
+_$s5AStar4StepCyxGSLAASL2geoiySbx_xtFZTW
+_$s5AStar4StepCyxGSLAASL1goiySbx_xtFZTW
+_$s5AStar4StepC4from2to4goalACyxGx_xxtcfcTf4gggn_n
+_$s5AStar4StepC11destination8previous4goalACyxGx_AGxtcfcTf4gggn_n
+_$s5AStar4StepCMa
+_$sSh12arrayLiteralShyxGxd_tcfCTf4gn_n
+_$sSh8IteratorV8_VariantOyx__GSHRzlWOe
+_$s5AStar4StepCMi
+_$s5AStar4StepCMr
+_$s5AStar4StepCyxGSHAASQWb
+_$s5AStar4StepCyxGSLAASQWb
+_symbolic $s5AStar9GraphNodeP
+_$s5AStar9GraphNode_pMF
+_$s5AStarMXM
+_symbolic x
+_$s5AStar4StepCMI
+_$s5AStar4StepCMn
+_$s5AStar4StepCMP
+_symbolic _____ 5AStar4StepC
+_symbolic _____yxGSg 5AStar4StepC
+_symbolic Sf
+_$s5AStar4StepCMF
+_associated conformance 5AStar4StepCyxGSHAASQ
+_associated conformance 5AStar4StepCyxGSLAASQ
+_$s5AStar4StepCyxGSQAAMc
+_$s5AStar4StepCyxGSHAAMc
+_$s5AStar4StepCyxGSLAAMc
+_$s5AStar4StepC4nodexvgTq
+_$s5AStar4StepC4nodexvsTq
+_$s5AStar4StepC4nodexvMTq
+_$s5AStar4StepC8previousACyxGSgvgTq
+_$s5AStar4StepC8previousACyxGSgvsTq
+_$s5AStar4StepC8previousACyxGSgvMTq
+_$s5AStar4StepC8stepCostSfvgTq
+_$s5AStar4StepC8stepCostSfvsTq
+_$s5AStar4StepC8stepCostSfvMTq
+_$s5AStar4StepC8goalCostSfvgTq
+_$s5AStar4StepC8goalCostSfvsTq
+_$s5AStar4StepC8goalCostSfvMTq
+_$s5AStar4StepC4from2to4goalACyxGx_xxtcfCTq
+_$s5AStar4StepC11destination8previous4goalACyxGx_AGxtcfCTq
+_$s5AStar4StepC4costSfyFTq
+/Users/logan/Documents/Workspace/MappaMundi/Carthage/Checkouts/A-Star/Sources/AStar/Node.swift
+$s5AStar4StepCyxGSLAASQWb
+<compiler-generated>
+$s5AStar4StepCyxGSHAASQWb
+$s5AStar4StepCMr
+$s5AStar4StepCMi
+init
+$sSa11_getElement_20wasNativeTypeChecked22matchingSubscriptCheckxSi_Sbs16_DependenceTokenVtF
+$s5AStar4StepCMa
+Node.swift
+findPath
+next
+makeIterator
+subtracting
+_allocateUninitializedArray
+$sSa13_adoptStorage_5countSayxG_SpyxGts016_ContiguousArrayB0CyxGn_SitFZ
+$sSa13_adoptStorage_5countSayxG_SpyxGts016_ContiguousArrayB0CyxGn_SitFZTf4gnn_n
+>
+>=
+<=
+<
+==
+_rawHashValue
+hash
+hashValue.get
+_hashValue
+cost
+combine
+deinit
+Apple LLVM version 10.0.1 (clang-1001.0.46.4)
+/Users/logan/Library/Caches/org.carthage.CarthageKit/DerivedData/10.3_10G8/A-Star/3.0.0-beta-1/Build/Intermediates.noindex/ArchiveIntermediates/AStar iOS/IntermediateBuildFilesPath/AStar.build/Release-iphoneos/AStar iOS.build/DerivedSources/AStar_vers.c

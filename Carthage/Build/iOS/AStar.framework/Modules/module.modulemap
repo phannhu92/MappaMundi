@@ -1,0 +1,11 @@
+framework module AStar {
+  umbrella header "AStar.h"
+
+  export *
+  module * { export * }
+}
+
+module AStar.Swift {
+    header "AStar-Swift.h"
+    requires objc
+}
