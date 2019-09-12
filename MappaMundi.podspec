@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'MappaMundi'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'A declarative Don\'t Repeat Yourself tool for XCUITesting and screenshots.'
   s.homepage         = 'https://github.com/phannhu92/MappaMundi'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
@@ -14,8 +14,7 @@ Pod::Spec.new do |s|
   s.static_framework = true
   s.source_files = 'Sources/*.swift'
   s.dependency 'AStar', '3.1.2'
-  s.dependency 'XCTest-Gherkin'
-  s.frameworks = 'Foundation', 'UIKit'
+  s.frameworks = 'Foundation', 'UIKit', 'XCTest'
 
 #   s.source_files = 'Sources/*.swift'
 #   s.xcconfig = { 'FRAMEWORK_SEARCH_PATHS' => '$(PROJECT_DIR)/Carthage/Build/iOS $(DEVELOPER_FRAMEWORKS_DIR) $(PLATFORM_DIR)/Developer/Library/Frameworks' }
